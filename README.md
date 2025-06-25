@@ -1,6 +1,8 @@
-## Crypto MCP Server
+## Real-Time Crypto Price API with MCP Integration
 
-This project uses the [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) server built with [Spring AI](https://docs.spring.io/spring-ai/reference/api/mcp/mcp-overview.html) and fetches real-time cryptocurrency prices from the [coingecko API](https://www.coingecko.com/en/api) and exposes them via an MCP-compliant interface, allowing easy integration with AI agents and automation systems.
+This project integrates the [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) using a server built with [Spring AI](https://docs.spring.io/spring-ai/reference/api/mcp/mcp-overview.html).
+It fetches real-time cryptocurrency prices from the [CoinGecko API](https://www.coingecko.com/en/api) and exposes the data through an MCP-compliant interface.
+This enables seamless integration with AI agents, automation tools, and intelligent applications that depend on structured, real-time financial data.
 
 ![image](https://github.com/user-attachments/assets/9aa036ec-7c2f-4b7b-8946-eb658b4d5414)
 
@@ -38,5 +40,10 @@ See: https://modelcontextprotocol.io/quickstart/user#2-add-the-filesystem-mcp-se
 
 ### Example of prompt on Claude desktop
 ![image](https://github.com/user-attachments/assets/e705489a-9e61-4a0a-bf1d-a10bfa541a00)
+
+### Learn more
+- https://github.com/modelcontextprotocol
+- https://smithery.ai
+- https://mcp.so
 
 
