@@ -1,4 +1,4 @@
-## Real-Time Crypto Price API with MCP Integration
+## Crypto MCP Server
 
 This project integrates the [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) using a server built with [Spring AI](https://docs.spring.io/spring-ai/reference/api/mcp/mcp-overview.html).
 It fetches real-time cryptocurrency prices from the [CoinGecko API](https://www.coingecko.com/en/api) and exposes the data through an MCP-compliant interface.
